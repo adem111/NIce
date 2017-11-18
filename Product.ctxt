@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Realisiert\ ein\ Produkt\ eines\ Onlineshops.\r\n\ TODO\:\ Erg\u00E4nzen\r\n\ \r\n\ @author\ Karsten\ H\u00F6lscher\ TODO\:\ erg\u00E4nzen\r\n\ @version\ 2017-11-02\ TODO\r\n
+comment1.params=pName\ pPrice
+comment1.target=Product(java.lang.String,\ int)
+comment1.text=\r\n\ Erzeugt\ ein\ neues\ Produkt\ mit\ dem\ gegebenen\ Namen\ und\ dem\r\n\ gegebenen\ Preis\ in\ Cent.\ \r\n\ \r\n\ Sollte\ der\ gegebene\ Name\ den\ Wert\ {@code\ null}\r\n\ haben\ oder\ leer\ sein,\ so\ wird\ der\ Name\ des\ erzeugten\ Produktes\ \r\n\ auf\ {@code\ unbekannt}\ gesetzt.\ \r\n\ \r\n\ Sollte\ der\ gegebene\ Preis\ kleiner\ als\ 10\ sein,\ so\ wird\ der\ Preis\r\n\ des\ erzeugten\ Produktes\ auf\ 10\ Cent\ gesetzt.\r\n\ \r\n\ @param\ pName\ Der\ Name\ f\u00FCr\ das\ zu\ erzeugende\ Produkt.\r\n\ @param\ pPrice\ Der\ Preis\ f\u00FCr\ das\ zu\ erzeugende\ Produkt\ in\ Cent.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gibt\ den\ Namen\ dieses\ Produktes\ zur\u00FCck.\r\n\ \r\n\ @return\ Den\ Namen\ dieses\ Produktes.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=Preis\ getPrice()
+comment4.text=\r\n\ Gibt\ den\ Preis\ dieses\ Produktes\ zur\u00FCck.\r\n\ \r\n\ @return\ Den\ Preis\ dieses\ Produktes.\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ Gibt\ die\ Informationen\ zu\ diesem\ Produkt\ auf\ der\ Konsole\ aus.\r\n\ Dabei\ wird\ zun\u00E4chst\ der\ Name\ und\ dann\ der\ Preis\ gefolgt\ von\r\n\ einer\ Zeilenschaltung\ ausgegeben.\r\n
+numComments=6

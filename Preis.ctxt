@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Preis
+comment1.params=eingabeCent
+comment1.target=Preis(int)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=int\ getCent()
+comment4.params=neuesProdukt
+comment4.target=void\ add(Preis)
+numComments=5
